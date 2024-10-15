@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player_sc : MonoBehaviour
 {
     public GameObject laser;
-    public float speed = 8;
+    public float speed = 8f;
     public float fireRate = 3f;
     public float nextFire = 0f;
 
